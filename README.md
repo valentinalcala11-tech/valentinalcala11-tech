@@ -15,19 +15,15 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ValentinAlcala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/valentinalcala 
 
-
-[linkedin]: www.linkedin.com/in/valentinalcala
-
-
-
--><h2>
+## About Me
 - 🔭 I’m currently working on ... Cybersecurity personal projects
-- 🌱 I’m currently learning ...  Managing home networks and cyber threats
-- 📫 How to reach me: ... valentinalcala11@gmail.com
+- 🌱 I’m currently learning ... Managing home networks and cyber threats
+- 📫 How to reach me: ... v
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Collect retro tech and dedicated to personal fitness
-  <h2>
+
 
