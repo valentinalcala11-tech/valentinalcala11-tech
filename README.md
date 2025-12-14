@@ -22,7 +22,7 @@
 ## About Me
 - 🔭 I’m currently working on ... Cybersecurity personal projects
 - 🌱 I’m currently learning ... Managing home networks and cyber threats
-- 📫 How to reach me: ... v
+- 📫 How to reach me: ... valentinalcala11@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Collect retro tech and dedicated to personal fitness
 
