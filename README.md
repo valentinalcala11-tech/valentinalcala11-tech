@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
 - <b> Cybersecurity HomeLab </b>
-  -Created a virtual home lab on proxmox, simulated firewalls, switches, and routers.
+  -Created a virtual home lab on vmware, used active directory, nessus, vpn, etc..
 
 
   
