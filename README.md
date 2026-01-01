@@ -9,8 +9,8 @@
   
 <h2>📝 Certifications:</h2> 
 <a href="https://www.credly.com/badges/076b6742-74c0-4675-bcff-cd3aedd0d2da">CompTIA Security+</a>
-<br/><a href="https://www.noctiskillbadge.org/user/badge/445912">NOCTI Computer Networking Fundamentals</a>
-<br/><a href="https://www.noctiskillbadge.org/user/badge/448092">NOCTI Computer Repair Technology</a>
+<br/><a href="https://www.noctiskillbadge.org/Secure/Badge/Certificate/445912">NOCTI Computer Networking Fundamentals</a>
+<br/><a href="https://www.noctiskillbadge.org/Secure/Badge/Certificate/448092">NOCTI Computer Repair Technology</a>
 
 <h2> 🤳 Connect with me:</h2>
 
