@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- <b> Cybersecurity HomeLab </b>
+- <a href="https://github.com/valentinalcala11-tech/Cybersecurity-Homelab"> Cybersecurity HomeLab </a>
   -Created a virtual home lab on vmware, used active directory, nessus, vpn, etc..
 
 
